@@ -54,7 +54,7 @@
             </div>
 
             <button type="submit" class="btn btn-success mt-3 shadow-sm" data-bs-toggle="tooltip" title="Simpan semua perubahan nilai siswa">
-                <i class="bi bi-save me-1"></i> Simpan dNilai
+                <i class="bi bi-save me-1"></i> Simpan Nilai
             </button>
         </form>
     </div>
